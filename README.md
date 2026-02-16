@@ -1,14 +1,14 @@
-Arch Linux 
-WM : I3
-I3 THEME: CATPUCCIN MACCHIATO
-Terminal : Alacritty
-Terminal Theme : cattpuccin also with transparency (Picom)
-Desktop Wallpaper : feh
-Desktop Font : JetBrains Mono NL
-Terminal Font : IosevkaTerm 
-Main text editor: Neovim
-Screenshots : xclip + maim
-file explorer : dolphin
-music : spotify
-browser : waterfox
-discord : Vencord
+- Distro : Arch Linux
+- WM : I3
+- I3 THEME: CATPUCCIN MACCHIATO
+- Terminal : Alacritty
+- Terminal Theme : cattpuccin also with transparency (Picom)
+- Desktop Wallpaper : feh
+- Desktop Font : JetBrains Mono NL
+- Terminal Font : IosevkaTerm 
+- Main text editor: Neovim
+- Screenshots : xclip + maim
+- file explorer : dolphin
+- music : spotify
+- browser : waterfox
+- discord : Vencord
